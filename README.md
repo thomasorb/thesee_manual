@@ -47,6 +47,21 @@
   - opd_min = -200 000 nm
   - opd_max = 799 714 nm
   - exposure_time = 0.33 s
+
+- filtre trois-bandes (R=2000, 3h d'exposition)
+  - velocity_target = 0.093 um/s
+  - step_nb = 11 027
+  - opd_min = -200 000 nm
+  - opd_max = 799 714 nm
+  - exposure_time = 0.98 s
+ 
+- filtre trois-bandes (R=2000, 2h d'exposition)
+  - velocity_target = 0.139 um/s
+  - step_nb = 11 027
+  - opd_min = -200 000 nm
+  - opd_max = 799 714 nm
+  - exposure_time = 0.65 s
+ 
 - laser (20 min, R=1500)
   - velocity_target = 0.625 um/s
   - step_nb = 8270
